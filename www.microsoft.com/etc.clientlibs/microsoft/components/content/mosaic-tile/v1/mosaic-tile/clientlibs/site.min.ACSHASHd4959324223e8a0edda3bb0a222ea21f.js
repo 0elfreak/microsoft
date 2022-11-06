@@ -1,0 +1,2 @@
+$(document).ready(function(){document.querySelectorAll("div.mosaic-tile .link-group \x3e a").forEach(function(b){var a=b.closest(".mosaic-card");"undefined"!==typeof a&&a&&(b.dataset.biEhn=a.querySelector("h1, h2, h3, h4, h5, h6").textContent.trim(),b.dataset.biHn=a.querySelector("h1, h2, h3, h4, h5, h6").textContent.trim());b.dataset.biCompname=$("div.mosaic-tile").attr("data-mosaic-tile-style");b.dataset.biBhvr=0;a=$("div.mosaic-tile").find("img");"undefined"!==typeof a&&a&&(a.attr("src")?b.dataset.biAssetid=
+a.attr("src"):b.dataset.biAssetid=a.attr("data-src"))})});
