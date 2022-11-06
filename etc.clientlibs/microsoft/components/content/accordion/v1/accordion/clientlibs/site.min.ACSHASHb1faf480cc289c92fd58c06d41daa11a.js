@@ -1,0 +1,1 @@
+$(function(){function b(a){(a=$(a))&&(a.hasClass("collapsed")?a.attr("data-bi-bhvr",7):a.attr("data-bi-bhvr",8))}$(".accordion li .accordion-header .btn-collapse").each(function(){b(this)});$(".accordion-header .btn-collapse").on("click",function(){b(this)})});

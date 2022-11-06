@@ -1,0 +1,1 @@
+$(function(){var b=document.querySelectorAll(".aem-inline-video-component");0!==b.length&&msftOnePlayerVideo.fetchScript().done(function(){b.forEach(function(a){a.dataset.video&&(a=JSON.parse(a.dataset.video),window.MsOnePlayer.render(a.id,a))})})});

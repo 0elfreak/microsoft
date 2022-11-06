@@ -1,0 +1,32 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.microsoft.com	TRUE	/	FALSE	1999999999	AEMDC	westeurope
+www.microsoft.com	TRUE	/	FALSE	1999999999	akacd_OneRF	1675470730~rv=47~id=fdac80aba7022df979fafa5d7f4f5001
+www.microsoft.com	TRUE	/	FALSE	1999999999	ApplicationGatewayAffinityCORS	1314af86d46a808ff49b14623960770a
+www.microsoft.com	TRUE	/	FALSE	1999999999	ApplicationGatewayAffinity	1314af86d46a808ff49b14623960770a
+www.microsoft.com	TRUE	/	FALSE	1999999999	cartMuid	28DC2169724F4D7F869AFD27F4F035D0
+.microsoft.com	TRUE	/	FALSE	1999999999	ak_bmsc	699C5623B7A6F12521221D8B88451638~000000000000000000000000000000~YAAQPL0vF+cEijyEAQAAb5BaShGlTr2+TzIf/cZ8hVHksBLVeYXs3RWof4bR225Dzf3RgmzLnDcf+3K4IC6ntninvZyuqlm0HiCdCFFDPY9kzJxrS3sf7hlr/DwRE+vZGLT9mTI8CZILrH0NIa+TdCUgKnLKQG9uwjI3AON9qJGgMBfPWFpTfd/UXV+JiN9vcD0GLp6IwQyFdYY+JSyLk4USX2jYmzptbNA35kB88ZSQSpz5gGmB0J/M/K1waL1+EXqbaT4/JrzTR6ZDGnp2XOsvMwV8ncfkfSKw00wl0FYIlbdOFi7QcH20DoRoi6X8YHIHwFFfnEnEudKE+CwVvEge0IcLF0OvnJI4aC/Hrvn94i33sDk+L52lPG2Kyw==
+edgeweb.trafficmanager.net	TRUE	/	FALSE	1999999999	ARRAffinity	2e6ed56c7ba07fe01a4e0e46980cf95c1873a367cac9ea2e4be9d20a30c392dc
+edgeweb.trafficmanager.net	TRUE	/	FALSE	1999999999	SameSite	None
+www.microsoft.com	TRUE	/	FALSE	1999999999	akavpau_cartpl	1667695595~id=de954862fb1893b134bcd1f5b4fa3657
+eduv2.msftedu.com	TRUE	/	FALSE	1999999999	ARRAffinitySameSite	669e5d63f834ba1a072bdb5fc0556584be42d71c1d6957cb98615f4df78b3341
+ms-store-virtual-communities.azurewebsites.net	TRUE	/	FALSE	1999999999	ARRAffinity	ac729eb25bf5d7504f05eb610b209f30cfeddb60b87b91c6a4cc8a578ca56dac
+ms-store-virtual-communities.azurewebsites.net	TRUE	/	FALSE	1999999999	SameSite	None
+eduv2.msftedu.com	TRUE	/	FALSE	1999999999	ARRAffinity	c51894cede74f42b8e7787302fd0a2ad148677893b4a80e0463a3bd04e47fec6
+eduv2.msftedu.com	TRUE	/	FALSE	1999999999	SameSite	None
+proxy.msftedu.com	TRUE	/	FALSE	1999999999	ARRAffinity	f1bcb8be707aa51a2c04adf3947bc32ceae35cfee0713d541c3f07b7e4dac6d4
+proxy.msftedu.com	TRUE	/	FALSE	1999999999	SameSite	None
+pd-prod-dm-app.azurewebsites.net	TRUE	/	FALSE	1999999999	ARRAffinity	0570aef4a12fc66474a672bcdf87c39e5d38e8c38779038bcdc01e1c5a03dcdf
+pd-prod-dm-app.azurewebsites.net	TRUE	/	FALSE	1999999999	SameSite	None
+win-commercial-prod.trafficmanager.net	TRUE	/	FALSE	1999999999	ARRAffinity	44681089155cffee5d6ea46eb43a0a3c4b551bd2ba6e6eff95774f120dc70b73
+win-commercial-prod.trafficmanager.net	TRUE	/	FALSE	1999999999	SameSite	None
+.microsoft.com	TRUE	/	FALSE	1999999999	MS-CV	38YDj0ZqfEeslAVV.1
+www.microsoft.com	TRUE	/	FALSE	1999999999	samesite	None
+win-articlehub-prod-tm.trafficmanager.net	TRUE	/	FALSE	1999999999	TiPMix	95.534535635046
+win-articlehub-prod-tm.trafficmanager.net	TRUE	/	FALSE	1999999999	x-ms-routing-name	self
+www.microsoft.com	TRUE	/	FALSE	1999999999	SameSite	None
+www.microsoft.com	TRUE	/	FALSE	1999999999	.ASPXANONYMOUS	9LhKWA4o2QEkAAAAMTcyZjdjMWMtOGNkYy00MTEyLTg4NjYtZjg1MDY3ZWM3MWNiQ34gQRX5H3Z-s90bOWnWF-4hvoXN1HwHMOwo9pCL1tA1
+win-articlehub-prod-tm.trafficmanager.net	TRUE	/	FALSE	1999999999	ARRAffinity	de3b10a934af9f1a63b114c049a04afeade855bfd755f5c58629d86d56d64502
+www.microsoft.com	TRUE	/	FALSE	1999999999	ARRAffinitySameSite	de3b10a934af9f1a63b114c049a04afeade855bfd755f5c58629d86d56d64502
+win-articlehub-prod-tm.trafficmanager.net	TRUE	/	FALSE	1999999999	SameSite	None
+
